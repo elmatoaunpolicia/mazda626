@@ -1,19 +1,29 @@
-# Accelno - TEST VERSION
+# 🌈 Accelno - TEST VERSION 🌈
 
-A modern React application built with Vite, featuring a comprehensive dashboard with data visualization capabilities.
+<div align="center">
+
+🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣
+
+**A modern React application built with Vite, featuring a comprehensive dashboard with data visualization capabilities.**
+
+🌈✨ *Building colorful experiences, one component at a time* ✨🌈
+
+🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣
+
+</div>
 
 🧪 **This is a test version with experimental changes for testing purposes.**
 
-## 🚀 Features
+## 🌈 Features
 
-- **Modern React Stack**: Built with React 18 and Vite for fast development and optimal performance
-- **State Management**: Redux Toolkit for efficient state management
-- **Routing**: React Router DOM for seamless navigation
-- **UI Components**: Flowbite React components with Tailwind CSS styling
-- **Data Visualization**: Multiple charting libraries including ApexCharts, Recharts, and Nivo
-- **Interactive Elements**: Drag & drop functionality, resizable components, and responsive layouts
-- **Form Handling**: React Hook Form with Yup validation
-- **Payment Integration**: Stripe integration for payment processing
+- 🔴 **Modern React Stack**: Built with React 18 and Vite for fast development and optimal performance
+- 🟠 **State Management**: Redux Toolkit for efficient state management
+- 🟡 **Routing**: React Router DOM for seamless navigation
+- 🟢 **UI Components**: Flowbite React components with Tailwind CSS styling
+- 🔵 **Data Visualization**: Multiple charting libraries including ApexCharts, Recharts, and Nivo
+- 🟣 **Interactive Elements**: Drag & drop functionality, resizable components, and responsive layouts
+- 🔴 **Form Handling**: React Hook Form with Yup validation
+- 🟠 **Payment Integration**: Stripe integration for payment processing
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +31,13 @@ A modern React application built with Vite, featuring a comprehensive dashboard 
 - **Styling**: Tailwind CSS, Flowbite
 - **State Management**: Redux Toolkit, Redux Persist
 
+---
+
+<div align="center">
+🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+</div>
+
+---
 
 ## 📦 Installation
 
