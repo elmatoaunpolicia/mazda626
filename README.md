@@ -6,7 +6,7 @@ A modern React application built with Vite, featuring a comprehensive dashboard 
 
 ## 🚀 Features
 
-- **Modern React Stack**: Built with React 18 and Vite for fast development and optimal performance
+- **Modern React Stack**: Built with React 18 and Vitsdsdsde for fast development and optimal performance
 - **State Management**: Redux Toolkit for efficient state management
 - **Routing**: React Router DOM for seamless navigation
 - **UI Components**: Flowbite React components with Tailwind CSS styling
