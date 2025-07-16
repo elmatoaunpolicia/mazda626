@@ -1,4 +1,4 @@
-name: Failing Runner 3 (1:20 minutes)
+name: Success Runner 3 (1:20 minutes)
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  failing-job-3:
+  success-job-3:
     runs-on: ubuntu-latest
     
     steps:
@@ -23,10 +23,9 @@ jobs:
     - name: Install dependencies
       run: npm ci
     
-    - name: Wait 1:20 minutes then fail
+    - name: Wait 1:20 minutes then succeed
       run: |
-        echo "Starting job that will fail after 1 minute and 20 seconds..."
+        echo "Starting job that will succeed after 1 minute and 20 seconds..."
         sleep 80
-        echo "1 minute and 20 seconds passed! Failing now..."
-        exit 1
-
+        echo "1 minute and 20 seconds passed! Succeeding now..."
+        echo "✅ Job completed successfully!"
