@@ -23,9 +23,9 @@ jobs:
     - name: Install dependencies
       run: npm ci
     
-    - name: Wait 3 seconds then succeed
+    - name: Wait 3 seconds then fail
       run: |
-        echo "Starting job that will succeed after 3 seconds..."
+        echo "Starting job that will fail after 3 seconds..."
         sleep 3
-        echo "Time's up! Succeeding now..."
-        echo "✅ Job completed successfully!"
+        echo "3 seconds passed! Failing now..."
+        exit 1
