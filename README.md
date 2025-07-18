@@ -15,6 +15,8 @@ A modern React application built with Vite, featuring a comprehensive dashboard 
 - **Form Handling**: React Hook Form with Yup validation
 - **Payment Integration**: Stripe integration for payment processing
 
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Vite
